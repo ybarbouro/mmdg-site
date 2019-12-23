@@ -274,7 +274,6 @@ a.text-dark:hover {
 }
 .jumbotron {
 	background-size:cover;
-	background-color: var(--secondary);
 	padding:2rem 1rem;
 }
 @media (min-width:992px) {
