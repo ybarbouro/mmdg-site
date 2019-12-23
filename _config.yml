@@ -1,5 +1,5 @@
 # Site
-name: 'Mundana'
+name: 'MMDG'
 description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
@@ -44,7 +44,7 @@ defaults:
     values:
       layout: post
       author: sal
-      avatar: /assets/images/avatar1.jpg
+      avatar: '/assets/images/avatar1.jpg'
 
   # all pages
   - scope:
