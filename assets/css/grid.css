@@ -51,3 +51,11 @@ img.is-lg {
   font-size: .9rem;
   width: 90%;
 }
+.two-cols p {
+  -moz-column-count: 2;
+  -webkit-column-count: 2;
+  -moz-column-gap: 2em;
+  -webkit-column-gap: 2em;
+  column-count: 2;
+  column-gap: 2em; 
+}
