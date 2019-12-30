@@ -9,7 +9,7 @@
   display: grid;
   place-content: center;
   max-width: 100%;
-  margin-top: -20px;
+  margin: 0 0 50px 0;
 }
 
 .grid-post {
@@ -37,6 +37,26 @@ img.selection {
      object-fit: cover;
   transition: 0.2s ease all;
 }
+
+img.non-selection {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+div.select-info {
+  grid-column: span 2;
+  font-size: 0.9rem;
+  padding-left:1rem;
+  font-style:italic;
+  align-self:end;
+}
+
+div.select-info p {
+  width: 80%;
+}
+
 img.selection:hover {
   z-index: 1;
   -webkit-transform: scale(1.2) translateZ(20px);
