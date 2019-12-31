@@ -4,24 +4,24 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>MMDG | Forjando un nombre para la historia</title>
+    <title>MMDG | Welcome to Jekyll!</title>
 
     <!-- Begin Jekyll SEO tag v2.5.0 -->
-<title>Forjando un nombre para la historia | MMDG</title>
+<title>Welcome to Jekyll! | MMDG</title>
 <meta name="generator" content="Jekyll v3.8.5" />
-<meta property="og:title" content="Forjando un nombre para la historia" />
+<meta property="og:title" content="Welcome to Jekyll!" />
 <meta name="author" content="fernando" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="El Museo Municipal de Guayaquil nació como Museo Industrial en 1863, fue su gestor el distinguido guayaquileño don Pedro Carbo quien en aquel entonces presidía la Municipalidad. Hacia el año de 1908, el 16 de diciembre, el Ilustre Concejo Municipal por iniciativa de Don Camilo Destruge Illingworth, decide crear un museo para la ciudad de Guayaquil lo que implicó la transformación del Museo Industrial, designándolo a él como su primer director." />
-<meta property="og:description" content="El Museo Municipal de Guayaquil nació como Museo Industrial en 1863, fue su gestor el distinguido guayaquileño don Pedro Carbo quien en aquel entonces presidía la Municipalidad. Hacia el año de 1908, el 16 de diciembre, el Ilustre Concejo Municipal por iniciativa de Don Camilo Destruge Illingworth, decide crear un museo para la ciudad de Guayaquil lo que implicó la transformación del Museo Industrial, designándolo a él como su primer director." />
-<link rel="canonical" href="http://localhost:4000/historia/" />
-<meta property="og:url" content="http://localhost:4000/historia/" />
+<meta name="description" content="You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated." />
+<meta property="og:description" content="You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated." />
+<link rel="canonical" href="http://localhost:4000/welcome-to-jekyll/" />
+<meta property="og:url" content="http://localhost:4000/welcome-to-jekyll/" />
 <meta property="og:site_name" content="MMDG" />
-<meta property="og:image" content="http://localhost:4000//res.cloudinary.com/magnvs/image/upload/v1575001468/kutqsd7lzbyiscnxyah2.jpg" />
+<meta property="og:image" content="http://localhost:4000/assets/images/demo1.jpg" />
 <meta property="og:type" content="article" />
-<meta property="article:published_time" content="2019-12-23T00:00:00-05:00" />
+<meta property="article:published_time" content="2019-12-04T00:00:00-05:00" />
 <script type="application/ld+json">
-{"description":"El Museo Municipal de Guayaquil nació como Museo Industrial en 1863, fue su gestor el distinguido guayaquileño don Pedro Carbo quien en aquel entonces presidía la Municipalidad. Hacia el año de 1908, el 16 de diciembre, el Ilustre Concejo Municipal por iniciativa de Don Camilo Destruge Illingworth, decide crear un museo para la ciudad de Guayaquil lo que implicó la transformación del Museo Industrial, designándolo a él como su primer director.","headline":"Forjando un nombre para la historia","dateModified":"2019-12-23T00:00:00-05:00","datePublished":"2019-12-23T00:00:00-05:00","@type":"BlogPosting","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/images/logo.png"},"name":"fernando"},"image":"http://localhost:4000//res.cloudinary.com/magnvs/image/upload/v1575001468/kutqsd7lzbyiscnxyah2.jpg","url":"http://localhost:4000/historia/","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/historia/"},"author":{"@type":"Person","name":"fernando"},"@context":"http://schema.org"}</script>
+{"description":"You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.","headline":"Welcome to Jekyll!","dateModified":"2019-12-04T00:00:00-05:00","datePublished":"2019-12-04T00:00:00-05:00","@type":"BlogPosting","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/images/logo.png"},"name":"fernando"},"image":"http://localhost:4000/assets/images/demo1.jpg","url":"http://localhost:4000/welcome-to-jekyll/","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/welcome-to-jekyll/"},"author":{"@type":"Person","name":"fernando"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -152,7 +152,7 @@ var documents = [{
     "id": 9,
     "url": "http://localhost:4000/",
     "title": "Museo Municipal de Guayaquil",
-    "body": "{% include main-top. html %} {% include general-info. html %}   Eventos anuales: {% if page. url ==  /  %}    {% assign latest_art = site. arts[0] %}        &lt;div class= topfirstimage  style= border-radius:5px; background-image: url({% if latest_art. image contains  ://  %}{{ latest_art. image }}{% else %} {{site. baseurl}}/{{ latest_art. image}}{% endif %}); height: 200px;  background-size: cover;  background-repeat: no-repeat; &gt;&lt;/div&gt;        {{ latest_art. title }}  :       {{ latest_art. excerpt | strip_html | strip_newlines | truncate: 136 }}               In         {% for category in latest_art. categories %}        {{ category }},         {% endfor %}                      {{ latest_art. date | date: '%b %d, %Y' }}                      {%- assign second_art = site. arts[1] -%}            {% if second_art. image %}                         &lt;img style= border-radius:4px;  class= w-100  src= {% if second_art. image contains  ://  %}{{ second_art. image }}{% else %}{{ second_art. image | absolute_url }}{% endif %}  alt= {{ second_art. title }} &gt;                        {% endif %}                            {{ second_art. title }}          :                       In             {% for category in second_art. categories %}            {{ category }},             {% endfor %}                                             {{ second_art. date | date: '%b %d, %Y' }}                                {%- assign third_art = site. arts[2] -%}            {% if third_art. image %}                         &lt;img style= border-radius:4px;  class= w-100  src= {% if third_art. image contains  ://  %}{{ third_art. image }}{% else %}{{site. baseurl}}/{{ third_art. image }}{% endif %}  alt= {{ third_art. title }} &gt;                        {% endif %}                            {{ third_art. title }}          :                       In             {% for category in third_art. categories %}            {{ category }},             {% endfor %}                                             {{ third_art. date | date: '%b %d, %Y' }}                                {%- assign fourth_art = site. arts[3] -%}            {% if fourth_art. image %}                        &lt;img style= border-radius:4px; class= w-100  src= {% if fourth_art. image contains  ://  %}{{ fourth_art. image }}{% else %}{{site. baseurl}}/{{ fourth_art. image }}{% endif %}  alt= {{ fourth_art. title }} &gt;                        {% endif %}                            {{ fourth_art. title }}          :                       In             {% for category in fourth_art. categories %}            {{ category }},             {% endfor %}                                             {{ fourth_art. date | date: '%b %d, %Y' }}                          {% for post in site. posts %}{% if post. tags contains  sticky  %}                    {{post. title}}        {{post. subtitle}}                  {{ post. excerpt | strip_html | strip_newlines | truncate: 136 }}                 Leer más                        {% endif %}{% endfor %}{% endif %}       Exposiciones temporales:     {% for post in paginator. posts %}      {% include main-loop-card. html %}    {% endfor %}               {% if paginator. total_pages &gt; 1 %}             {% if paginator. previous_page %}        &laquo; Prev       {% else %}        &laquo;       {% endif %}       {% for page in (1. . paginator. total_pages) %}        {% if page == paginator. page %}        {{ page }}        {% elsif page == 1 %}        {{ page }}        {% else %}        {{ page }}        {% endif %}       {% endfor %}       {% if paginator. next_page %}        Next &raquo;       {% else %}        &raquo;       {% endif %}            {% endif %}            {% include sidebar-featured. html %}  "
+    "body": "{% include main-top. html %} {% include general-info. html %}   Eventos anuales: {% if page. url ==  /  %}    {% assign latest_art = site. arts[0] %}        &lt;div class= topfirstimage  style= border-radius:5px; background-image: url({% if latest_art. image contains  ://  %}{{ latest_art. image }}{% else %} {{site. baseurl}}/{{ latest_art. image}}{% endif %}); height: 200px;  background-size: cover;  background-repeat: no-repeat; &gt;&lt;/div&gt;        {{ latest_art. title }}  :       {{ latest_art. excerpt | strip_html | strip_newlines | truncate: 136 }}               En         {% for category in latest_art. categories %}        {{ category }},         {% endfor %}                      {{ latest_art. date | date: '%b %d, %Y' }}                      {%- assign second_art = site. arts[1] -%}            {% if second_art. image %}                         &lt;img style= border-radius:4px;  class= w-100  src= {% if second_art. image contains  ://  %}{{ second_art. image }}{% else %}{{ second_art. image | absolute_url }}{% endif %}  alt= {{ second_art. title }} &gt;                        {% endif %}                            {{ second_art. title }}          :                       En             {% for category in second_art. categories %}            {{ category }},             {% endfor %}                                             {{ second_art. date | date: '%b %d, %Y' }}                                {%- assign third_art = site. arts[2] -%}            {% if third_art. image %}                         &lt;img style= border-radius:4px;  class= w-100  src= {% if third_art. image contains  ://  %}{{ third_art. image }}{% else %}{{site. baseurl}}/{{ third_art. image }}{% endif %}  alt= {{ third_art. title }} &gt;                        {% endif %}                            {{ third_art. title }}          :                       En             {% for category in third_art. categories %}            {{ category }},             {% endfor %}                                             {{ third_art. date | date: '%b %d, %Y' }}                                {%- assign fourth_art = site. arts[3] -%}            {% if fourth_art. image %}                        &lt;img style= border-radius:4px; class= w-100  src= {% if fourth_art. image contains  ://  %}{{ fourth_art. image }}{% else %}{{site. baseurl}}/{{ fourth_art. image }}{% endif %}  alt= {{ fourth_art. title }} &gt;                        {% endif %}                            {{ fourth_art. title }}          :                       En             {% for category in fourth_art. categories %}            {{ category }},             {% endfor %}                                             {{ fourth_art. date | date: '%b %d, %Y' }}                          {% for art in site. arts %}{% if art. tags contains  sticky  %}                    {{art. title}}        {{art. subtitle}}                  {{ art. excerpt | strip_html | strip_newlines | truncate: 136 }}                 Leer más                        {% endif %}{% endfor %}{% endif %}       Exposiciones temporales:     {% for post in paginator. posts %}      {% include main-loop-card. html %}    {% endfor %}               {% if paginator. total_pages &gt; 1 %}             {% if paginator. previous_page %}        &laquo; Prev       {% else %}        &laquo;       {% endif %}       {% for page in (1. . paginator. total_pages) %}        {% if page == paginator. page %}        {{ page }}        {% elsif page == 1 %}        {{ page }}        {% else %}        {{ page }}        {% endif %}       {% endfor %}       {% if paginator. next_page %}        Siguiente &raquo;       {% else %}        &raquo;       {% endif %}            {% endif %}            {% include sidebar-featured. html %}  "
     }, {
     "id": 10,
     "url": "http://localhost:4000/prehispanica.html",
@@ -177,12 +177,12 @@ var documents = [{
     "id": 14,
     "url": "http://localhost:4000/page2/",
     "title": "Museo Municipal de Guayaquil",
-    "body": "{% include main-top. html %} {% include general-info. html %}   Eventos anuales: {% if page. url ==  /  %}    {% assign latest_art = site. arts[0] %}        &lt;div class= topfirstimage  style= border-radius:5px; background-image: url({% if latest_art. image contains  ://  %}{{ latest_art. image }}{% else %} {{site. baseurl}}/{{ latest_art. image}}{% endif %}); height: 200px;  background-size: cover;  background-repeat: no-repeat; &gt;&lt;/div&gt;        {{ latest_art. title }}  :       {{ latest_art. excerpt | strip_html | strip_newlines | truncate: 136 }}               In         {% for category in latest_art. categories %}        {{ category }},         {% endfor %}                      {{ latest_art. date | date: '%b %d, %Y' }}                      {%- assign second_art = site. arts[1] -%}            {% if second_art. image %}                         &lt;img style= border-radius:4px;  class= w-100  src= {% if second_art. image contains  ://  %}{{ second_art. image }}{% else %}{{ second_art. image | absolute_url }}{% endif %}  alt= {{ second_art. title }} &gt;                        {% endif %}                            {{ second_art. title }}          :                       In             {% for category in second_art. categories %}            {{ category }},             {% endfor %}                                             {{ second_art. date | date: '%b %d, %Y' }}                                {%- assign third_art = site. arts[2] -%}            {% if third_art. image %}                         &lt;img style= border-radius:4px;  class= w-100  src= {% if third_art. image contains  ://  %}{{ third_art. image }}{% else %}{{site. baseurl}}/{{ third_art. image }}{% endif %}  alt= {{ third_art. title }} &gt;                        {% endif %}                            {{ third_art. title }}          :                       In             {% for category in third_art. categories %}            {{ category }},             {% endfor %}                                             {{ third_art. date | date: '%b %d, %Y' }}                                {%- assign fourth_art = site. arts[3] -%}            {% if fourth_art. image %}                        &lt;img style= border-radius:4px; class= w-100  src= {% if fourth_art. image contains  ://  %}{{ fourth_art. image }}{% else %}{{site. baseurl}}/{{ fourth_art. image }}{% endif %}  alt= {{ fourth_art. title }} &gt;                        {% endif %}                            {{ fourth_art. title }}          :                       In             {% for category in fourth_art. categories %}            {{ category }},             {% endfor %}                                             {{ fourth_art. date | date: '%b %d, %Y' }}                          {% for post in site. posts %}{% if post. tags contains  sticky  %}                    {{post. title}}        {{post. subtitle}}                  {{ post. excerpt | strip_html | strip_newlines | truncate: 136 }}                 Leer más                        {% endif %}{% endfor %}{% endif %}       Exposiciones temporales:     {% for post in paginator. posts %}      {% include main-loop-card. html %}    {% endfor %}               {% if paginator. total_pages &gt; 1 %}             {% if paginator. previous_page %}        &laquo; Prev       {% else %}        &laquo;       {% endif %}       {% for page in (1. . paginator. total_pages) %}        {% if page == paginator. page %}        {{ page }}        {% elsif page == 1 %}        {{ page }}        {% else %}        {{ page }}        {% endif %}       {% endfor %}       {% if paginator. next_page %}        Next &raquo;       {% else %}        &raquo;       {% endif %}            {% endif %}            {% include sidebar-featured. html %}  "
+    "body": "{% include main-top. html %} {% include general-info. html %}   Eventos anuales: {% if page. url ==  /  %}    {% assign latest_art = site. arts[0] %}        &lt;div class= topfirstimage  style= border-radius:5px; background-image: url({% if latest_art. image contains  ://  %}{{ latest_art. image }}{% else %} {{site. baseurl}}/{{ latest_art. image}}{% endif %}); height: 200px;  background-size: cover;  background-repeat: no-repeat; &gt;&lt;/div&gt;        {{ latest_art. title }}  :       {{ latest_art. excerpt | strip_html | strip_newlines | truncate: 136 }}               En         {% for category in latest_art. categories %}        {{ category }},         {% endfor %}                      {{ latest_art. date | date: '%b %d, %Y' }}                      {%- assign second_art = site. arts[1] -%}            {% if second_art. image %}                         &lt;img style= border-radius:4px;  class= w-100  src= {% if second_art. image contains  ://  %}{{ second_art. image }}{% else %}{{ second_art. image | absolute_url }}{% endif %}  alt= {{ second_art. title }} &gt;                        {% endif %}                            {{ second_art. title }}          :                       En             {% for category in second_art. categories %}            {{ category }},             {% endfor %}                                             {{ second_art. date | date: '%b %d, %Y' }}                                {%- assign third_art = site. arts[2] -%}            {% if third_art. image %}                         &lt;img style= border-radius:4px;  class= w-100  src= {% if third_art. image contains  ://  %}{{ third_art. image }}{% else %}{{site. baseurl}}/{{ third_art. image }}{% endif %}  alt= {{ third_art. title }} &gt;                        {% endif %}                            {{ third_art. title }}          :                       En             {% for category in third_art. categories %}            {{ category }},             {% endfor %}                                             {{ third_art. date | date: '%b %d, %Y' }}                                {%- assign fourth_art = site. arts[3] -%}            {% if fourth_art. image %}                        &lt;img style= border-radius:4px; class= w-100  src= {% if fourth_art. image contains  ://  %}{{ fourth_art. image }}{% else %}{{site. baseurl}}/{{ fourth_art. image }}{% endif %}  alt= {{ fourth_art. title }} &gt;                        {% endif %}                            {{ fourth_art. title }}          :                       En             {% for category in fourth_art. categories %}            {{ category }},             {% endfor %}                                             {{ fourth_art. date | date: '%b %d, %Y' }}                          {% for art in site. arts %}{% if art. tags contains  sticky  %}                    {{art. title}}        {{art. subtitle}}                  {{ art. excerpt | strip_html | strip_newlines | truncate: 136 }}                 Leer más                        {% endif %}{% endfor %}{% endif %}       Exposiciones temporales:     {% for post in paginator. posts %}      {% include main-loop-card. html %}    {% endfor %}               {% if paginator. total_pages &gt; 1 %}             {% if paginator. previous_page %}        &laquo; Prev       {% else %}        &laquo;       {% endif %}       {% for page in (1. . paginator. total_pages) %}        {% if page == paginator. page %}        {{ page }}        {% elsif page == 1 %}        {{ page }}        {% else %}        {{ page }}        {% endif %}       {% endfor %}       {% if paginator. next_page %}        Siguiente &raquo;       {% else %}        &raquo;       {% endif %}            {% endif %}            {% include sidebar-featured. html %}  "
     }, {
     "id": 15,
-    "url": "http://localhost:4000/historia/",
-    "title": "Forjando un nombre para la historia",
-    "body": "2019/12/23 - El Museo Municipal de Guayaquil nació como Museo Industrial en 1863, fue su gestor el distinguido guayaquileño don Pedro Carbo quien en aquel entonces presidía la Municipalidad. Hacia el año de 1908, el 16 de diciembre, el Ilustre Concejo Municipal por iniciativa de Don Camilo Destruge Illingworth, decide crear un museo para la ciudad de Guayaquil lo que implicó la transformación del Museo Industrial, designándolo a él como su primer director. La antigua Casa del Cabildo fue el primer domicilio para Museo y Biblioteca hasta el año de 1908, cuando ambos fueron trasladados a un elegante Chalet ubicado en la calle Villamil perteneciente al Dr. Darío Morla, siendo allí donde surge la idea de su re-estructuración. El espacio con el que contaban el museo y biblioteca no era suficiente para su rápido crecimiento, la necesidad fue reconocida por el Congreso, el cual concedió por decreto para la Municipalidad de Guayaquil, el solar donde, hasta 1902, estaba el antiguo templo de San Agustín. En este sitio se inauguró para 1916 un nuevo edifico de construcción mixta para la Biblioteca y Museo; aquella obra del Arq. Raúl María Pereira, de arquitectura renacentista, luego de 22 años (en 1938) tuvo que ser demolida debido a su rápido deterioro.       De izquierda a derecha:1. Fachada del primer edificio de la Biblioteca y Museo Municipal hacia 1909, era un chalet ubicado en la calle Villamil Nº 309, propiedad del Dr. Darío Morla.   2. Don Camilo Destruge primer director del Museo Municipal de Guayaquil. Retrato perteneciente a la galería de directores de la Biblioteca Municipal, por el pintor Angeloni Tapia.   3. Segundo edificio de la Biblioteca y Museo Municipal, obra del pintor y escultor lusitano Raúl María Pereira. El acceso al museo estaba en la calle Diez de Agosto (Portada derecha en la imagen). Fotografía publicada en “El Ecuador en el Centenario de la Independencia de Guayaquil” (1920). 4. El Maestro Jorge Swett junto a su obra, detalle de la fachada lateral del Museo Municipal, hacia la calle Chile.   5. Detalle de la fachada principal del actual edificio del Museo Municipal de Guayaquil, construido entre 1968 - 1970 y ornamentado con el mural de Jorge Swett.  El edificio actual y la exposición permanente. : El actual edificio del museo, fue construido entre 1968 y 1970 por la municipalidad para trasladar los bienes que desde 1938 se exponían en el Palacio Municipal. El edificio sería levantado en la alcaldía de Assad Bucaram inaugurándose en 1970, con acceso independiente desde la calle Sucre, ornamentándolo el maestro Jorge Swett con un mural que decora el exterior del museo y que se terminó en 1971. A finales del siglo XX, en la primera administración del Ing. León Febres-Cordero (1992), se realizó una importante remodelación del museo; años más tarde en 1999, el arquitecto Melvin Hoyos Galarza entonces director del Museo, concibe e inaugura una nueva exhibición permanente, la cual, con importantes mejoras todavía podemos apreciar en la actualidad. En la ultima década, la exhibición permanente fue ampliada en dos ocasiones: La primera, cuando en julio del 2013 el Ab. Jaime Nebot autorizó los trabajos de ampliación de las dependencias de la Reserva Técnica del museo, para sorpresa y asombro de los obreros y el personal del museo se descubrieron las fosas comunes que Rocafuerte mandara a excavar para las víctimas de la epidemia de fiebre amarilla de 1842, el sito se adecuó para que los visitantes puedan apreciar parte del testimonio material de aquel período trágico de nuestro pasado. Posteriormente y con el afán de dotar a Guayaquil con una muestra permanente de Historia Natural, y gracias a la desinteresada generosidad de la congregación Lasallana, la colección de historia natural del colegio San José La Salle integrada por el «Museo Ecuador» se abre a la comunidad la nueva Sala de Historia Natural «Hno. Agustín Mantilla Figueroa» en julio del 2016. "
+    "url": "http://localhost:4000/welcome-to-jekyll/",
+    "title": "Welcome to Jekyll!",
+    "body": "2019/12/04 - You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated. To add new posts, simply add a file in the _posts directory that follows the convention YYYY-MM-DD-name-of-post. ext and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works. Jekyll also offers powerful support for code snippets: def print_hi(name) puts  Hi, #{name} endprint_hi('Tom')#=&gt; prints 'Hi, Tom' to STDOUT. Check out the Jekyll docs for more info on how to get the most out of Jekyll. File all bugs/feature requests at Jekyll’s GitHub repo. If you have questions, you can ask them on Jekyll Talk. "
     }, {
     "id": 16,
     "url": "http://localhost:4000/acumulated-experience/",
@@ -325,22 +325,20 @@ function lunr_search(term) {
 					<p class="text-uppercase font-weight-bold">
                         <span class="catlist">
 						
-                          <a class="sscroll text-danger" href="categories.html#jekyll">jekyll</a><span class="sep">, </span>
-                        
-                          <a class="sscroll text-danger" href="categories.html#tutorial">tutorial</a><span class="sep">, </span>
+                          <a class="sscroll text-danger" href="categories.html#eventos">eventos</a><span class="sep">, </span>
                         
                         </span>
 					</p>
-					<h1 class="display-4 mb-4 article-headline">Forjando un nombre para la historia</h1>
+					<h1 class="display-4 mb-4 article-headline">Welcome to Jekyll!</h1>
 					<div class="d-flex align-items-center">
                         
                         <img class="rounded-circle" src="/assets/images/avatar1.jpg" alt="Fernando Mayorga" width="70"/>
                         
 						<small class="ml-3"> Fernando Mayorga <span><a target="_blank" href="https://twitter.com/fernanz" class="btn btn-outline-success btn-sm btn-round ml-1">Follow</a></span>
-                            <span class="text-muted d-block mt-1">Dec 23, 2019 · <span class="reading-time">
+                            <span class="text-muted d-block mt-1">Dec 04, 2019 · <span class="reading-time">
   
   
-    3 mins read
+    1 min read
   
 </span>
     </span>
@@ -349,7 +347,7 @@ function lunr_search(term) {
 				</div>
                 
 				<div class="col-md-6 pr-0 align-self-center">
-					<img class="rounded" src="///res.cloudinary.com/magnvs/image/upload/v1575001468/kutqsd7lzbyiscnxyah2.jpg" alt="Forjando un nombre para la historia">
+					<img class="rounded" src="/assets/images/demo1.jpg" alt="Welcome to Jekyll!">
 				</div>
                 
 			</div>
@@ -357,71 +355,27 @@ function lunr_search(term) {
 	</div>
 </div>
 
-
-
-
-
 <div class="container-lg pt-4 pb-4">
 	<div class="row justify-content-center">
 
-
-        <!-- Share -->
-		<div class="col-lg-2 pr-4 mb-4 col-md-12">
-			<div class="sticky-top sticky-top-offset text-center">
-				<div class="text-muted">
-					Compartir
-				</div>
-				<div class="share d-inline-block">
-					<!-- AddToAny BEGIN -->
-					<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-						<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
-						<a class="a2a_button_facebook"></a>
-						<a class="a2a_button_twitter"></a>
-					</div>
-					<script async src="https://static.addtoany.com/menu/page.js"></script>
-					<!-- AddToAny END -->
-				</div>
-			</div>
-		</div>
-
-
-		<div class="col-md-12 col-lg-8">
-
-            <!-- Article -->
+<div class="col-md-12 col-lg-8">
+	
+      <!-- Article -->
 			<article class="article-post">
-			<p>El Museo Municipal de Guayaquil nació como Museo Industrial en 1863, fue su gestor el distinguido guayaquileño don Pedro Carbo quien en aquel entonces presidía la Municipalidad. Hacia el año de 1908, el 16 de diciembre, el Ilustre Concejo Municipal por iniciativa de Don Camilo Destruge Illingworth, decide crear un museo para la ciudad de Guayaquil lo que implicó la transformación del Museo Industrial, designándolo a él como su primer director.</p>
+			<p>You’ll find this post in your <code class="highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
 
-<p>La antigua Casa del Cabildo fue el primer domicilio para Museo y Biblioteca hasta el año de 1908, cuando ambos fueron trasladados a un elegante Chalet ubicado en la calle Villamil perteneciente al Dr. Darío Morla, siendo allí donde surge la idea de su re-estructuración.</p>
+<p>To add new posts, simply add a file in the <code class="highlighter-rouge">_posts</code> directory that follows the convention <code class="highlighter-rouge">YYYY-MM-DD-name-of-post.ext</code> and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
 
-<p>El espacio con el que contaban el museo y biblioteca no era suficiente para su rápido crecimiento, la necesidad fue reconocida por el Congreso, el cual concedió por decreto para la Municipalidad de Guayaquil, el solar donde, hasta 1902, estaba el antiguo templo de San Agustín.</p>
+<p>Jekyll also offers powerful support for code snippets:</p>
 
-<p>En este sitio se inauguró para 1916 un nuevo edifico de construcción mixta para la Biblioteca y Museo; aquella obra del Arq. Raúl María Pereira, de arquitectura renacentista, luego de 22 años (en 1938) tuvo que ser demolida debido a su rápido deterioro.</p>
-<div class="g-wrap">
-<div class="grid-post">
-  <img class="selection" src="//res.cloudinary.com/magnvs/image/upload/v1577170363/gtiwbld8c8tx2a82i7td.jpg" />
-  <img class="selection is-tall" src="//res.cloudinary.com/magnvs/image/upload/v1577170623/x3ksoaxhoqpj1wcrsjhm.jpg" />
-  <img class="selection" src="//res.cloudinary.com/magnvs/image/upload/v1577170477/x61uiioeeqipkgc9iqr3.jpg" />
-  <img class="selection" src="//res.cloudinary.com/magnvs/image/upload/v1577170097/ssfbkpu1u8zmtx7ykgdl.jpg" />
-  <img class="selection" src="//res.cloudinary.com/magnvs/image/upload/v1577170817/sgdtvnbqgwkrijlfrmgx.jpg" />
-  <div class="captions"><small>De izquierda a derecha:</small><br /><b>1. Fachada del primer edificio</b> de la Biblioteca y Museo Municipal hacia 1909, era un chalet ubicado en la calle Villamil Nº 309, propiedad del Dr. Darío Morla.<br />
-    <b>2. Don Camilo Destruge</b> primer director del Museo Municipal de Guayaquil. Retrato perteneciente a la galería de directores de la Biblioteca Municipal, por el pintor Angeloni Tapia.<br />
-    <b>3. Segundo edificio de la Biblioteca y Museo Municipal</b>, obra del pintor y escultor lusitano Raúl María Pereira. El acceso al museo estaba en la calle Diez de Agosto (Portada derecha en la imagen). Fotografía publicada en “El Ecuador en el Centenario de la Independencia de Guayaquil” (1920).<br /><b>4. El Maestro Jorge Swett</b> junto a su obra, detalle de la fachada lateral del Museo Municipal, hacia la calle Chile.<br />
-    <b>5. Detalle de la fachada principal</b> del actual edificio del Museo Municipal de Guayaquil, construido entre 1968 - 1970 y ornamentado con el mural de Jorge Swett.
-  </div>
-</div>
-</div>
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
 
-<h2 id="el-edificio-actual-y-la-exposición-permanente">El edificio actual y la exposición permanente.</h2>
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>
 
-<p>El actual edificio del museo, fue construido entre 1968 y 1970 por la municipalidad para trasladar los bienes que desde 1938 se exponían en el Palacio Municipal.</p>
-
-<p>El edificio sería levantado en la alcaldía de Assad Bucaram inaugurándose en 1970, con acceso independiente desde la calle Sucre, ornamentándolo el maestro Jorge Swett con un mural que decora el exterior del museo y que se terminó en 1971.</p>
-
-<p>A finales del siglo XX, en la primera administración del Ing. León Febres-Cordero (1992), se realizó una importante remodelación del museo; años más tarde en 1999, el arquitecto Melvin Hoyos Galarza entonces director del Museo, concibe e inaugura una nueva exhibición permanente, la cual, con importantes mejoras todavía podemos apreciar en la actualidad.</p>
-
-<p>En la ultima década, la exhibición permanente fue ampliada en dos ocasiones: La primera, cuando en julio del 2013 el Ab. Jaime Nebot autorizó los trabajos de ampliación de las dependencias de la Reserva Técnica del museo, para sorpresa y asombro de los obreros y el personal del museo se descubrieron las fosas comunes que Rocafuerte mandara a excavar para las víctimas de la epidemia de fiebre amarilla de 1842, el sito se adecuó para que los visitantes puedan apreciar parte del testimonio material de aquel período trágico de nuestro pasado.</p>
-
-<p>Posteriormente y con el afán de dotar a Guayaquil con una muestra permanente de Historia Natural, y gracias a la desinteresada generosidad de la congregación Lasallana, la colección de historia natural del colegio San José La Salle integrada por el «Museo Ecuador» se abre a la comunidad la nueva Sala de Historia Natural «Hno. Agustín Mantilla Figueroa» en julio del 2016.</p>
 
 			</article>
 
@@ -429,16 +383,12 @@ function lunr_search(term) {
 			<div class="mb-4">
 				<span class="taglist">
 				
-				  <a class="sscroll btn btn-light btn-sm font-weight-bold" href="/tags.html#sticky">sticky</a>
-				
-				  <a class="sscroll btn btn-light btn-sm font-weight-bold" href="/tags.html#featured">featured</a>
-				
 				</span>
 			</div>
 
             <!-- Mailchimp Subscribe Form -->
-            
-			<div class="border p-5 bg-lightblue">
+	
+		<div class="border p-5 bg-lightblue">
 				<div class="row justify-content-between">
 					<div class="col-md-6 mb-2 mb-md-0">
 						<h5 class="font-weight-bold">Join Newsletter</h5>
@@ -466,11 +416,22 @@ function lunr_search(term) {
              <!-- Author Box -->
                 
 				<div class="row mt-5">
-					<div class="col-md-2 align-self-center">
-                         
-                        <img class="rounded-circle" src="/assets/images/avatar1.jpg" alt="Fernando Mayorga" width="90"/>
-                        
+					<!-- Share -->
+			<div class="col-md-2 align-self-center">
+				<div class="sticky-top sticky-top-offset text-center">
+					<div class="share mb-4">
+						<!-- AddToAny BEGIN -->
+						<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+							<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+							<a class="a2a_button_facebook"></a>
+							<a class="a2a_button_twitter"></a>
+						</div>
+						<script async src="https://static.addtoany.com/menu/page.js"></script>
+						<!-- AddToAny END -->
 					</div>
+				</div>
+			</div>
+
 					<div class="col-md-10">
                         <h5 class="font-weight-bold">Publicado por Fernando Mayorga <span><a target="_blank" href="https://twitter.com/fernanz" class="btn btn-outline-success btn-sm btn-round ml-2">Follow</a></span></h5>
 						Fernando Mayorga, diseñador web y profesor universitario, amigo de la Historia del Arte y el Patrimonio Cultural ecuatoriano.

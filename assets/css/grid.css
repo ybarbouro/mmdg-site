@@ -122,3 +122,51 @@ p.three-cols {
 .colonial {
   color: rgb(213,0,0);
 }
+
+img.wide {
+  max-width: 100%;
+  margin-bottom:0;
+}
+
+.full-width {
+  width: 100vw;
+  display:grid;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  z-index: 0;
+}
+
+.full-width figcaption {
+  font-style: italic;
+  font-size: 1rem;
+  line-height: 16pt;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: .6rem;
+  color: #444;
+}
+
+@media only screen and (min-width: 600px) {
+  .full-width figcaption {
+    width: 760px;
+    margin:  0 auto;
+  }
+}
+
+@media only screen and (min-width: 2000px) {
+  .full-width{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+}
+
+@media only screen and (max-width: 540px) {
+  .article-post {
+    font-size: 1rem;
+    line-height: 18pt;
+  }
+}

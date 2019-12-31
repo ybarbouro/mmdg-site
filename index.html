@@ -32,7 +32,7 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
     </p>
     <div>
         <small class="d-block text-muted">
-            In <span class="catlist">
+            En <span class="catlist">
                 {% for category in latest_art.categories %}
                 <a class="text-capitalize text-muted smoothscroll" href="categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
                 {% endfor %}
@@ -63,7 +63,7 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
                     <a class="text-dark" href="{{second_art.url}}">{{ second_art.title }}</a>
                     </h2>
                     <p class="d-block text-muted">
-                        In <span class="catlist">
+                        En <span class="catlist">
                         {% for category in second_art.categories %}
                         <a class="text-capitalize text-muted smoothscroll" href="categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
                         {% endfor %}
@@ -90,7 +90,7 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
                     <a class="text-dark" href="{{third_art.url}}">{{ third_art.title }}</a>
                     </h2>
                     <p class="d-block text-muted">
-                        In <span class="catlist">
+                        En <span class="catlist">
                         {% for category in third_art.categories %}
                         <a class="text-capitalize text-muted smoothscroll" href="categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
                         {% endfor %}
@@ -117,7 +117,7 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
                     <a class="text-dark" href="{{fourth_art.url}}">{{ fourth_art.title }}</a>
                     </h2>
                     <p class="d-block text-muted">
-                        In <span class="catlist">
+                        En <span class="catlist">
                         {% for category in fourth_art.categories %}
                         <a class="text-capitalize text-muted smoothscroll" href="categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
                         {% endfor %}
@@ -134,20 +134,20 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
 </div>
 
 <!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
-{% for post in site.posts %}
-{% if post.tags contains "sticky" %}
+{% for art in site.arts %}
+{% if art.tags contains "sticky" %}
 <div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 mb-2rem bg-lightblue position-relative">
     <div class="pl-4 pr-0 h-100 tofront">
         <div class="row justify-content-between">
             <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
-                <h1 class="mb-3">{{post.title}}</h1>
-                <h5 class="mb-4">{{post.subtitle}}</h5>
+                <h1 class="mb-3">{{art.title}}</h1>
+                <h5 class="mb-4">{{art.subtitle}}</h5>
                 <p class="mb-3 lead">
-                    {{ post.excerpt | strip_html | strip_newlines | truncate: 136 }}
+                    {{ art.excerpt | strip_html | strip_newlines | truncate: 136 }}
                 </p>
-                <a href="{{site.baseurl}}{{post.url}}" class="btn btn-dark">Leer más</a>
+                <a href="{{site.baseurl}}{{art.url}}" class="btn btn-dark">Leer más</a>
             </div>
-            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url({{site.baseurl}}/{{ post.image }});">
+            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url({{site.baseurl}}/{{ art.image }});">
             </div>
         </div>
     </div>
@@ -199,7 +199,7 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
               {% endfor %}
 
               {% if paginator.next_page %}
-                <li class="page-item"><a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a></li>
+                <li class="page-item"><a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Siguiente &raquo;</a></li>
               {% else %}
                 <li class="page-item disabled"><span class="next page-link">&raquo;</span></li>
               {% endif %}
