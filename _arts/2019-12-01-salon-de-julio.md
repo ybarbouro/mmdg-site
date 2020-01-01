@@ -22,7 +22,7 @@ Al igual como sucede en el arte contemporáneo, en la historia del Salón de Jul
 
 <figure class='full-width'>
   <img class="wide" src="//cdn.filestackcontent.com/iPZw4Nd7RrqiGVf8fE7l">
-  <figcaption>1. Thomás Ochoa: Máquina de guerra y quien nos gobierna. Óleo sobre lienzo. Primer Premio Salón de Julio 2000.<br /><br />2. Enrique Tábara: Gris Precolombino. Óleo sobre lienzo, 300 x 150.5 cm. Primer Premio Salón de Julio 1967.</figcaption>
+  <figcaption>1. Thomás Ochoa: Quien nos representa y máquina de guerra. Téxnica mixta, políptico, 180 x 391 cm. Primer Premio Salón de Julio 2000.<br /><br />2. Enrique Tábara: Gris Precolombino. Óleo sobre lienzo, 300 x 150.5 cm. Primer Premio Salón de Julio 1967.</figcaption>
 </figure>
 
 El Salón de Julio también es testimonio del cambio generacional y sus preferencias en los procedimientos artísticos; así evidenciamos como el predominio del óleo y el lienzo han dado paso a la experimentación con nuevos procedimientos y materiales distintos a los tradicionales por excelencia.

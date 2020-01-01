@@ -10,7 +10,7 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
 {% include general-info.html %}
 
 <div id="anuales" class="container mt-4">
-    <h4 class="font-weight-bold spanborder"><span>Eventos anuales</span></h4>
+    <h4 class="font-weight-bold spanborder"><span>Eventos especiales</span></h4>
 
 {% if page.url == "/" %}
 
@@ -54,7 +54,7 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
                 {% if second_art.image %}
                 <div class="col-md-4">
                 <a href="{{second_art.url}}">
-                 <img style="border-radius:4px;" class="w-100" src="{% if second_art.image contains "://" %}{{ second_art.image }}{% else %}{{ second_art.image | absolute_url }}{% endif %}" alt="{{ second_art.title }}">
+                 <img style="border-radius:4px;" class="w-100" src="{% if second_art.image contains "://" %}{{ second_art.image }}{% else %}{{site.baseurl}}{{ second_art.image | absolute_url }}{% endif %}" alt="{{ second_art.title }}">
                 </a>
                 </div>
                 {% endif %}
