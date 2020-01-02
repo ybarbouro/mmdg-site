@@ -2,7 +2,7 @@
 layout: post
 title:  "Los Constante, cuatro generaciones de artistas"
 author: fernando
-categories: [ Exposiciones ]
+category: [ Exposiciones ]
 image: https://res.cloudinary.com/magnvs/image/upload/v1577970252/ymzqgrphlpa59hc57l7r.jpg
 ---
 
