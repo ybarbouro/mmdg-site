@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Could we reinvent the charm of old cities"
+date: 2020-01-02 01:30:00
 author: jane
-categories: [ Exposiciones ]
+categories: [ exposiciones ]
 image: assets/images/home.jpg
 ---
 

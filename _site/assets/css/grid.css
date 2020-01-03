@@ -123,6 +123,14 @@ p.three-cols {
   color: rgb(213,0,0);
 }
 
+.independencia {
+  color: rgba(0,182,237,1);
+}
+
+.republica {
+  color: #778899;
+}
+
 img.wide {
   max-width: 100%;
   margin-bottom:0;

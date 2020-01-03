@@ -2,7 +2,7 @@
 layout: post
 title:  "Markdown Example"
 author: jane
-categories: [ Exposiciones ]
+categories: [ exposiciones ]
 image: /assets/images/6.jpg
 tags: featured
 ---
