@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "LATIDUD 2°12' y LONGITUD 79°54' del cuarto ciclo (DOS)"
-date: 2020-01-02 01:30:00
+title:  "Imperfecta Belleza, Hernán Illescas"
+date: 2020-01-06 01:00:00
 author: fernando
 categories: [ exposiciones ]
-image: //res.cloudinary.com/magnvs/image/upload/v1578281893/ciygnoyj7kbxrjf5epzk.jpg
+image: //res.cloudinary.com/magnvs/image/upload/v1578323568/illescas_mkq0wf.jpg
 tags: [featured]
 ---
 
