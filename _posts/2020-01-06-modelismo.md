@@ -22,4 +22,4 @@ El cronograma de actividades es el siguiente:
 - Viernes 14 de febrero: Ultima inscripción de modelo hasta las 11:00 am. Calificación de los jueces a modelos inscritos. Premiación, entrega de medallas y sesión de fotos a las 16:00.  
 - Sábado 15 de febrero: ÚLTIMO día de exhibición de obras y al cierre del museo, retiro de modelos.
 
-Más información: **Enrique Calderón al 0969058901¨**
+Más información: **Enrique Calderón al 0969058901**
