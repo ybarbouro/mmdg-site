@@ -4,7 +4,7 @@ title:  "XIX Concurso Nacional de modelismo a escala"
 date: 2020-01-06 02:30:00
 author: fernando
 categories: [ exposiciones ]
-image: https://res.cloudinary.com/magnvs/image/upload/v1548945783/maquetas_b0jqfl.jpg
+image: //res.cloudinary.com/magnvs/image/upload/v1548945783/maquetas_b0jqfl.jpg
 tags: [featured]
 ---
 

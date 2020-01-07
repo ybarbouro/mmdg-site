@@ -4,7 +4,7 @@ title:  "Imperfecta Belleza, Hernán Illescas"
 date: 2020-01-06 01:00:00
 author: fernando
 categories: [ exposiciones ]
-image: https://res.cloudinary.com/magnvs/image/upload/v1578323568/illescas_mkq0wf.jpg
+image: //res.cloudinary.com/magnvs/image/upload/v1578323568/illescas_mkq0wf.jpg
 tags: [featured]
 ---
 **Marco cenceptual de la exposición por José Carlos Arias A. (Curador de arte)**
