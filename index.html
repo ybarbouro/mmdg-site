@@ -147,9 +147,9 @@ description: "Sitio oficial del Museo Municipal y sus atractivos culturales."
                 <p class="mb-3 lead">
                     {{ art.excerpt | strip_html | strip_newlines | truncate: 136 }}
                 </p>
-                <a href="{{site.baseurl}}{{art.url}}" class="btn btn-dark">Leer más</a>
+                <a href="{{art.url}}" class="btn btn-dark">Leer más</a>
             </div>
-            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url({{site.baseurl}}/{{ art.image }});">
+            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url({{ art.image }});">
             </div>
         </div>
     </div>
