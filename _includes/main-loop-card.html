@@ -1,12 +1,14 @@
 <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
-	<h2 class="mb-1 h4 font-weight-bold">
+	<h2 class="mb-0 h4 font-weight-bold">
 	<a class="text-dark" href="{{post.url}}">{{ post.title }}</a>
 	</h2>
+	<h2 class="mb-1 h5 opens">Inauguración: {{ post.opens }}</h2>
+
 	<p style="font-size:1rem;" class="excerpt">
 	   {{ post.excerpt  | strip_html | strip_newlines | truncate: 186 }}
 	</p>
-	<h2 class="mb-1 h5 opens">Inauguración: {{ post.opens }}</h2>
+
 	<small class="d-block text-muted">
 		En <span class="catlist">
 		{% for category in post.categories %}
