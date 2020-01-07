@@ -131,6 +131,10 @@ p.three-cols {
   color: #778899;
 }
 
+.opens {
+  color: rgba(173,20,87,.7);
+}
+
 img.wide {
   max-width: 100%;
   margin-bottom:0;
