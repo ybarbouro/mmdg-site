@@ -2,7 +2,6 @@
 layout: post
 title:  "Remembranzas 1908-2018"
 author: fernando
-categories: [ Eventos ]
 image: https://res.cloudinary.com/magnvs/image/upload/v1577839130/ieeo0yhxgk4jjfr3kokf.jpg
 ---
 Para conmemorar los 110 años del Museo Municipal, entre otros eventos, se realizó la exposición "Remembranzas", la misma que mostró la colección museográfica que nos recordó como era el museo a inicios del siglo XX, específicamente entre 1909 y 1936.

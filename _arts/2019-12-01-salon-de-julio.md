@@ -2,7 +2,6 @@
 layout: post
 title:  "Salón de Julio - Pintura 'Fundación de Guayaquil'"
 author: fernando
-categories: [ Eventos ]
 image: https://res.cloudinary.com/magnvs/image/upload/v1563980373/peggs_comercio_d4rvxl.jpg
 ---
 > La exposición anual se inaugura en julio, coincidiendo con las fechas que hacen homenaje a la fundación de la ciudad y permanece abierta al público por 30 días.

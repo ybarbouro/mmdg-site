@@ -2,7 +2,6 @@
 layout: post
 title:  "Museo Arte y Ciudad"
 author: fernando
-categories: [ Eventos ]
 image: https://res.cloudinary.com/magnvs/image/upload/v1577835572/txjmkmjcoqfwowb6yppr.jpg
 ---
 A continuación, en resumen, los eventos anuales organizados dentro del programa Museo Arte y Ciudad de la Dirección de Cultura y el Museo Municipal.
