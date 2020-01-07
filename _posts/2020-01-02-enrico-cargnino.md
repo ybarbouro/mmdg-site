@@ -4,7 +4,7 @@ title:  "LATIDUD 2°12' y LONGITUD 79°54' del cuarto ciclo (DOS)"
 date: 2020-01-02 01:30:00
 author: fernando
 categories: [ exposiciones ]
-image: //res.cloudinary.com/magnvs/image/upload/v1578281893/ciygnoyj7kbxrjf5epzk.jpg
+image: https://res.cloudinary.com/magnvs/image/upload/v1578281893/ciygnoyj7kbxrjf5epzk.jpg
 tags: [featured]
 ---
 

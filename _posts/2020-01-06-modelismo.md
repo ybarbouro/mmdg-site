@@ -4,7 +4,7 @@ title:  "XIX Concurso Nacional de modelismo a escala"
 date: 2020-01-06 02:30:00
 author: fernando
 categories: [ exposiciones ]
-image: //res.cloudinary.com/magnvs/image/upload/v1548945783/maquetas_b0jqfl.jpg
+image: https://res.cloudinary.com/magnvs/image/upload/v1548945783/maquetas_b0jqfl.jpg
 tags: [featured]
 ---
 
@@ -17,9 +17,9 @@ Nuestro caso específico es MODELISMO PLÁSTICO A ESCALA, lo que significa que n
 
 El cronograma de actividades es el siguiente:
 
-- Miércoles 12 de febrero: Evento de lanzamiento y Rueda de Prensa: 11:00 am  
-- Jueves 13 de febrero: Ingreso de Modelistas participantes con sus maquetas, inscripción y ubicación. Calificación previa.  
-- Viernes 14 de febrero: Ultima inscripción de modelo hasta las 11:00 am. Calificación de los jueces a modelos inscritos. Premiación, entrega de medallas y sesión de fotos a las 16:00.  
+- Miércoles 12 de febrero: Evento de lanzamiento y Rueda de Prensa: 11:00 am
+- Jueves 13 de febrero: Ingreso de Modelistas participantes con sus maquetas, inscripción y ubicación. Calificación previa.
+- Viernes 14 de febrero: Ultima inscripción de modelo hasta las 11:00 am. Calificación de los jueces a modelos inscritos. Premiación, entrega de medallas y sesión de fotos a las 16:00.
 - Sábado 15 de febrero: ÚLTIMO día de exhibición de obras y al cierre del museo, retiro de modelos.
 
 Más información: **Enrique Calderón al 0969058901**
