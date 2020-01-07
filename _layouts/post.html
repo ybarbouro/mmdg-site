@@ -26,7 +26,7 @@ layout: default
 				</div>
                 {% if page.image %}
 				<div class="col-md-6 pr-0 align-self-center">
-					<img class="rounded" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}">
+					<img class="rounded" src="{{ page.image }}" alt="Fotografía de {{ page.title }}">
 				</div>
                 {% endif %}
 			</div>
@@ -38,7 +38,7 @@ layout: default
 	<div class="row justify-content-center">
 
 <div class="col-md-12 col-lg-8">
-	
+
       <!-- Article -->
 			<article class="article-post">
 			{{ content }}
