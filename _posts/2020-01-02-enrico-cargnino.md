@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "LATIDUD 2°12' y LONGITUD 79°54' del cuarto ciclo (DOS)"
+opens: 6 de febrero / 18h00
 date: 2020-01-02 01:30:00
 author: fernando
 categories: [ exposiciones ]

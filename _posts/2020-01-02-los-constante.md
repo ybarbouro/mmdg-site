@@ -2,6 +2,7 @@
 layout: post
 title:  "Los Constante, cuatro generaciones de artistas"
 date: 2020-01-02 06:00:00
+opens: 9 de enero / 18h30
 author: fernando
 categories: [ exposiciones ]
 image: //res.cloudinary.com/magnvs/image/upload/v1577970252/ymzqgrphlpa59hc57l7r.jpg

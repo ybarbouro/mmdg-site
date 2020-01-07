@@ -6,6 +6,7 @@
 	<p style="font-size:1rem;" class="excerpt">
 	   {{ post.excerpt  | strip_html | strip_newlines | truncate: 186 }}
 	</p>
+	<h2 class="mb-1 h4 text-lightblue">Inauguración: {{ post.opens }}</h2>
 	<small class="d-block text-muted">
 		En <span class="catlist">
 		{% for category in post.categories %}
