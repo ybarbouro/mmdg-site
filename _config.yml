@@ -6,7 +6,7 @@ favicon: '/assets/images/favicon.ico'
 baseurl: 'mmdg.site'
 disqus: ''
 email: 'fmayorga.uno@gmail.com'
-mailchimp-list: 'https://mailchi.mp/d79a2ece6906/mmdg'
+mailchimp-list: 'https://salondejulio.us15.list-manage.com/subscribe/post?u=457adcef9dbbf9f19f94c5bc8&amp;id=18f85c850d'
 
 include: ["_pages"]
 permalink: /:title/
