@@ -34,7 +34,7 @@ description: "Sitio oficial del Museo Municipal y sus atractivos culturales."
     </p>
     <div>
         <small class="d-block text-muted">
-            En <span class="catlist">
+            <span class="catlist">
                 {% for category in latest_art.categories %}
                 <a class="text-capitalize text-muted smoothscroll" href="categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
                 {% endfor %}
@@ -65,7 +65,7 @@ description: "Sitio oficial del Museo Municipal y sus atractivos culturales."
                     <a class="text-dark" href="{{second_art.url}}">{{ second_art.title }}</a>
                     </h2>
                     <p class="d-block text-muted">
-                        En <span class="catlist">
+                        <span class="catlist">
                         {% for category in second_art.categories %}
                         <a class="text-capitalize text-muted smoothscroll" href="categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
                         {% endfor %}
@@ -92,7 +92,7 @@ description: "Sitio oficial del Museo Municipal y sus atractivos culturales."
                     <a class="text-dark" href="{{third_art.url}}">{{ third_art.title }}</a>
                     </h2>
                     <p class="d-block text-muted">
-                        En <span class="catlist">
+                        <span class="catlist">
                         {% for category in third_art.categories %}
                         <a class="text-capitalize text-muted smoothscroll" href="categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
                         {% endfor %}
@@ -119,7 +119,7 @@ description: "Sitio oficial del Museo Municipal y sus atractivos culturales."
                     <a class="text-dark" href="{{fourth_art.url}}">{{ fourth_art.title }}</a>
                     </h2>
                     <p class="d-block text-muted">
-                        En <span class="catlist">
+                        <span class="catlist">
                         {% for category in fourth_art.categories %}
                         <a class="text-capitalize text-muted smoothscroll" href="categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
                         {% endfor %}
