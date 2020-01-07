@@ -48,12 +48,12 @@ layout: default
 			<div class="mb-4">
 				<span class="taglist">
 				{% for tag in page.tags %}
-				  <a class="sscroll btn btn-light btn-sm font-weight-bold" href="{{site.baseurl}}/tags.html#{{ tag | downcase }}">{{ tag | downcase }}</a>
+				  <a class="sscroll btn btn-light btn-sm font-weight-bold" href="/tags.html#{{ tag | downcase }}">{{ tag | downcase }}</a>
 				{% endfor %}
 				</span>
 			</div>
 
-            <!-- Mailchimp Subscribe Form -->
+<!-- Mailchimp Subscribe Form
 	{% if site.mailchimp-list %}
 		<div class="border p-5 bg-lightblue">
 				<div class="row justify-content-between">
@@ -77,7 +77,7 @@ layout: default
 					</div>
 				</div>
 			</div>
-            {% endif %}
+            {% endif %} -->
 
 
              <!-- Author Box -->
