@@ -171,8 +171,7 @@ description: "Sitio oficial del Museo Municipal y sus atractivos culturales."
 
 
         {% for post in paginator.posts %}
-        {% assign posts = site.posts | sort: 'listing-priority' %}
-
+     
             {% include main-loop-card.html %}
 
         {% endfor %}
