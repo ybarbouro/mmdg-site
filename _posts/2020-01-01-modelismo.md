@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "XIX Concurso Nacional de modelismo a escala"
-listing-priority: 096
 opens: 12 de febrero / 11h00
 author: fernando
 categories: [ exposiciones ]
