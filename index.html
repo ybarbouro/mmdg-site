@@ -168,8 +168,6 @@ description: "Sitio oficial del Museo Municipal y sus atractivos culturales."
     <div class="col-md-8 main-loop">
 
         <h4 class="font-weight-bold spanborder"><span>Exposiciones temporales</span></h4>
-
-       {% assign paginator.posts = paginator.posts | sort: "listing-priority" %}
         
         {% for post in paginator.posts %}
      
