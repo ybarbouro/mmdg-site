@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Los Constante, cuatro generaciones de artistas"
+listing-priority: 095
 date: 2020-01-02 06:00:00
 opens: 9 de enero / 18h30
 author: fernando
