@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Latitud 2°12' y Longitud 79°54' del cuarto ciclo (DOS)"
+listing-priority: 098
 opens: 6 de febrero / 18h00
 date: 2020-01-02 01:30:00
 author: fernando
