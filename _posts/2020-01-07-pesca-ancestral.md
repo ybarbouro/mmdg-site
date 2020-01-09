@@ -17,7 +17,7 @@ Los pescadores de la comunidad ancestral de Engabao, desarrollaron un curioso y 
 
 El evento se llevará a cabo el día viernes 17 de enero del 2020 a las 18h00 en el Auditorio del Museo Municipal de Guayaquil.
 
-**𝗔𝗳𝘁𝗲𝗿 𝗲𝗻 𝗲𝗹 𝗘𝗹 𝗠𝗮𝗻𝘀𝗼**  
+**Continuamos el after en el Manso**  
 
 - Tarot Filosófico edusemiótico
 - Exposición de arte ancestral
