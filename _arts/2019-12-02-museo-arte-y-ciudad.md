@@ -39,7 +39,15 @@ Es un servicio que ofrece el Museo Municipal y puede ser solicitado por cualquie
 
 Desde la fecha en que la orquesta entró a formar parte del Museo Municipal, al inicio de la Alcaldía del ingeniero León Febres-Cordero, se constituyó en una herramienta de más cultura para Guayaquil, y en esta trayectoria ha dado muchos conciertos formales y didácticos en diferentes salas y teatros de nuestra ciudad y fuera de ella, contando aún con una vasta programación para llegar a más público, en especial a la ciudadanía de Guayaquil.
 
-Todo este esfuerzo se debe al trabajo tesonero del abogado **José A. Valdivieso S.**, fundador y director de la Orquesta de Cámara del Museo Municipal; y, gracias al continuo apoyo de la doctora **Cynthia Viteri** y del director de Cultura, el arquitecto **Melvin Hoyos G.**, Guayaquil cuenta con una orquesta representativa. Conoce [más detalles sobre la Orquesta de Cámara](//www.museoarteyciudad.com/ocmmg/).
+Todo este esfuerzo se debe al trabajo tesonero del abogado **José A. Valdivieso S.**, fundador y director de la Orquesta de Cámara del Museo Municipal; y, gracias al continuo apoyo de la doctora **Cynthia Viteri** y del director de Cultura, el arquitecto **Melvin Hoyos G.**, Guayaquil cuenta con una orquesta representativa. Conoce [más detalles sobre la Orquesta de Cámara](//www.museoarteyciudad.com/ocmmg/).  
+
+**Orquesta Filarmónica Municipal de Guayaquil**  
+
+Creada el 20 de julio de 2017, la orquesta filarmónica, está dirigida por el maestro armenio-ecuatoriano **David Harutyunyan**, realiza la mayoría de los conciertos de temporada en su sede, el Teatro Centro de Arte (TCA) y en las salas del Museo Municipal. 
+
+En la programación de sus conciertos ha incluido un amplio repertorio sinfónico nacional e internacional, incluso fusiones con otros géneros como el jazz y ritmos latinos; contando además, con la participación de solistas invitados de alto rango tales como los violinistas Alexander Markov y Mizue Hashiguchi, los pianistas Vitaly Pisarenko y Andrea Bacchetti, la soprano Seri Baek, el barítono Gyungseok Han, entre otros.  
+
+Uno de los objetivos de la orquesta es el de acercar su música a lugares populares de la ciudad, con este fin, por ejemplo ha presentado conciertos en el muelle de Puerto Santa Ana, la explanada del monumento al Cristo del Consuelo, las iglesias Santa Gema, Nuestra Señora de la Anunciación, donde ha contado con la participación especial de artistas de renombre nacional como Francisco Terán, Lila Flores, Jorge Luis del Hierro, Pamela Cortés, Daniel Betancourth, David Chiang y Cristina Alcívar.  
 
 **Coro de voces adultas "Más Ciudad"**  
 
