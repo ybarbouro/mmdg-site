@@ -4,7 +4,7 @@ title:  "Museo Arte y Ciudad"
 author: fernando
 image: https://res.cloudinary.com/magnvs/image/upload/v1577835572/txjmkmjcoqfwowb6yppr.jpg
 ---
-A continuación, en resumen, los eventos anuales organizados dentro del programa Museo Arte y Ciudad de la Dirección de Cultura y el Museo Municipal.
+A continuación, en resumen, los eventos anuales organizados dentro del programa Museo Arte y Ciudad de la Dirección de Cultura y el Museo Municipal, además de la labor realizada por las orquestas y coros adscritos a la Dirección de Cultura.
 
 **Festival de Artes al Aire Libre - FAAL “Independencia de Guayaquil”**
 
