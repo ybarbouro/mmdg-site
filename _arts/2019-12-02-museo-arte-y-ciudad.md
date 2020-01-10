@@ -43,7 +43,7 @@ Todo este esfuerzo se debe al trabajo tesonero del abogado **José A. Valdivieso
 
 **Orquesta Filarmónica Municipal de Guayaquil**  
 
-Creada el 20 de julio de 2017, la orquesta filarmónica, está dirigida por el maestro armenio-ecuatoriano **David Harutyunyan**, realiza la mayoría de los conciertos de temporada en su sede, el Teatro Centro de Arte (TCA) y en las salas del Museo Municipal. 
+Fue creada el 20 de julio de 2017 y está dirigida por el maestro armenio-ecuatoriano **David Harutyunyan**; la orquesta filarmónica realiza la mayoría de los conciertos de temporada en su sede, el Teatro Centro de Arte (TCA) y en las salas del Museo Municipal. 
 
 En la programación de sus conciertos ha incluido un amplio repertorio sinfónico nacional e internacional, incluso fusiones con otros géneros como el jazz y ritmos latinos; contando además, con la participación de solistas invitados de alto rango tales como los violinistas Alexander Markov y Mizue Hashiguchi, los pianistas Vitaly Pisarenko y Andrea Bacchetti, la soprano Seri Baek, el barítono Gyungseok Han, entre otros.  
 
