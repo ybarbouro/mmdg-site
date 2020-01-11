@@ -33,7 +33,7 @@ Es un servicio que ofrece el Museo Municipal y puede ser solicitado por cualquie
 
 <figure class='full-width'>
   <img class="wide" src="//res.cloudinary.com/magnvs/image/upload/v1501892745/ocm_fyijyy.jpg">
-  <figcaption>La Orquesta de Cámara del Museo durante los ensayos bajo la dirección del maestro Valdivieso en una d elas salas del Museo Municipal (2017).</figcaption>
+  <figcaption>La Orquesta de Cámara del Museo durante los ensayos bajo la dirección del maestro Valdivieso en una de las salas del Museo Municipal (2017).</figcaption>
 </figure>
 
 **Orquesta de Cámara del Museo Municipal**
