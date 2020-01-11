@@ -43,7 +43,7 @@ Desde la fecha en que la orquesta entró a formar parte del Museo Municipal, al 
 Todo este esfuerzo se debe al trabajo tesonero del abogado **José A. Valdivieso S.**, fundador y director de la Orquesta de Cámara del Museo Municipal; y, gracias al continuo apoyo de la doctora **Cynthia Viteri** y del director de Cultura, el arquitecto **Melvin Hoyos G.**, Guayaquil cuenta con una orquesta representativa. Conoce [más detalles sobre la Orquesta de Cámara](//www.museoarteyciudad.com/ocmmg/).
 
 <figure class='full-width'>
-  <img class="wide" src="//cdn.filestackcontent.com/eoEtnFGlSCVrRLgAYet2">
+  <img class="wide" src="//cdn.filestackcontent.com/9wOT6I6SQ1mLet48fbTu">
   <figcaption>La Orquesta Filarmónica Municipal de Guayaquil cuenta actualmente con 42 músicos y durante el 2020 aspira llegar a 55.
   </figcaption>
 </figure>
