@@ -8,7 +8,7 @@ categories: [ exposiciones ]
 image: //res.cloudinary.com/magnvs/image/upload/v1579021398/troya_gj6la6.jpg
 tags: [featured]
 ---
-Amazonía Ecuatoriana, región mágica, de naturaleza exuberante extendiéndose en un área de 120.000 km2 que alberga alrededor de ocho mil especies de plantas medicinales, 85 especies de peces, 47 anfibios y reptiles, 95 aves y 80 especies de mamíferos en peligro de extinción, donde vive el 70 por ciento de las 25 mil especies de plantas que existen en el planeta. Comprende las provincias de: Sucumbíos, Orellana, Napo, Pastaza, Morona Santiago y Zamora Chimchipe.  
+Amazonía Ecuatoriana, región mágica, de naturaleza exuberante extendiéndose en un área de 120.000 km2 que alberga alrededor de ocho mil especies de plantas medicinales, 85 especies de peces, 47 anfibios y reptiles, 95 aves y 80 especies de mamíferos en peligro de extinción, donde vive el 70 por ciento de las 25 mil especies de plantas que existen en el planeta. Comprende las provincias de: Sucumbíos, Orellana, Napo, Pastaza, Morona Santiago y Zamora Chinchipe.  
 
 Habitada por pueblos indígenas como son: A´l Cofán, Secoya, Siona, Huaorani, Shiwiar, Zápara, Achuar, Shuar, Kichwa Amazonia, además de los pueblos indígenas en aislamiento voluntario que conviven en armonía con su hábitat, el cual les provee a cambio todo lo necesario para su subsistencia.  
 
