@@ -2,6 +2,7 @@
 layout: post
 title:  "XIX Concurso Nacional de modelismo a escala"
 opens: 12 de febrero / 11h00
+date: 2020-01-01 01:00:00
 author: fernando
 categories: [ exposiciones ]
 image: //res.cloudinary.com/magnvs/image/upload/v1548945783/maquetas_b0jqfl.jpg
