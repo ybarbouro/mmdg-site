@@ -177,15 +177,18 @@ img.wide {
 
 .bg-eagle {
   background-image: url('//res.cloudinary.com/magnvs/image/upload/v1577232384/thgvowq90zwre0zbxgqd.jpg');
-  background-size: cover;
-  background-position: center center;
+  background-color: rgba(0,0,0,.4);
   background-blend-mode: multiply;
+  background-size: cover;
+  background-position: center;
 }
 
 .bg-mural {
   background-image: url('//res.cloudinary.com/magnvs/image/upload/v1577232353/ehpgpv8r69b5rscdc25r.jpg');
+  background-color: rgba(0,0,0,.4);
+  background-blend-mode: multiply;
   background-size: cover;
-  background-position: center center;
+  background-position: center;
   background-blend-mode: multiply;
 }
 @media only screen and (min-width: 600px) {
