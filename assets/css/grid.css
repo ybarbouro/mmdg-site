@@ -212,7 +212,7 @@ img.wide {
   }
 }
 
-@media only screen and (max-width: 340px) {
+@media only screen and (max-width: 320px) {
   .hidden {
     display:none;
   }
