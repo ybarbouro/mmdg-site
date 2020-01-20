@@ -176,14 +176,16 @@ img.wide {
 
 
 .bg-eagle {
-  background: url(//res.cloudinary.com/magnvs/image/upload/v1577232384/thgvowq90zwre0zbxgqd.jpg),rgba(0,0,0,.3);
+  background-image: url('//res.cloudinary.com/magnvs/image/upload/v1577232384/thgvowq90zwre0zbxgqd.jpg');
+  background-color:rgba(0,0,0,.3);
   background-size: cover;
   background-position: center center;
   background-blend-mode: multiply;
 }
 
 .bg-mural {
-  background: url(//res.cloudinary.com/magnvs/image/upload/v1577232353/ehpgpv8r69b5rscdc25r.jpg),rgba(0,0,0,.3);
+  background-image: url('//res.cloudinary.com/magnvs/image/upload/v1577232353/ehpgpv8r69b5rscdc25r.jpg');
+  background-color:rgba(0,0,0,.3);
   background-size: cover;
   background-position: center center;
   background-blend-mode: multiply;
