@@ -189,7 +189,6 @@ img.wide {
   background-blend-mode: multiply;
   background-size: cover;
   background-position: center;
-  background-blend-mode: multiply;
 }
 @media only screen and (min-width: 600px) {
   .full-width figcaption {
