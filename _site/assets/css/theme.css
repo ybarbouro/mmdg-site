@@ -34,7 +34,7 @@ a {
 	color:#03a87c;
 }
 a.text-dark:hover {
-	color:#03a87c !important;
+	color: rgba(173,20,87,.8)!important;
 }
 .c-pointer:hover {
 	cursor:pointer;

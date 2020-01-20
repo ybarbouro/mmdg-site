@@ -161,6 +161,35 @@ img.wide {
   color: #444;
 }
 
+.overflow-hidden { overflow: hidden; }
+
+.flex-equal > * {
+  -ms-flex: 1;
+  flex: 1;
+}
+@media (min-width: 768px) {
+  .flex-md-equal > * {
+    -ms-flex: 1;
+    flex: 1;
+  }
+}
+
+
+.bg-eagle {
+  background-color: rgba(0,0,0,.3);
+  background-image: url(//res.cloudinary.com/magnvs/image/upload/v1577232384/thgvowq90zwre0zbxgqd.jpg);
+  background-size: cover;
+  background-position: center center;
+  background-blend-mode: multiply;
+}
+
+.bg-mural {
+  background-color: rgba(0,0,0,.3);
+  background-image: url(//res.cloudinary.com/magnvs/image/upload/v1577232353/ehpgpv8r69b5rscdc25r.jpg);
+  background-size: cover;
+  background-position: center center;
+  background-blend-mode: multiply;
+}
 @media only screen and (min-width: 600px) {
   .full-width figcaption {
     width: 760px;
