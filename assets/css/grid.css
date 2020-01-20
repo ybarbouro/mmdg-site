@@ -183,7 +183,7 @@ img.wide {
 }
 
 .bg-mural {
-  background-image: url(//res.cloudinary.com/magnvs/image/upload/v1577232353/ehpgpv8r69b5rscdc25r.jpg),rgba(0,0,0,.3);
+  background: url(//res.cloudinary.com/magnvs/image/upload/v1577232353/ehpgpv8r69b5rscdc25r.jpg),rgba(0,0,0,.3);
   background-size: cover;
   background-position: center center;
   background-blend-mode: multiply;
