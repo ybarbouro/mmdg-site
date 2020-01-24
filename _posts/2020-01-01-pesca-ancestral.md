@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Pesca ancestral Guancavilca"
-listing-priority: 095
+listing-priority:
+date: 2020-01-01 00:00:00
 opens: 17 de enero / 18h00
 author: fernando
 categories: [ conferencias ]
