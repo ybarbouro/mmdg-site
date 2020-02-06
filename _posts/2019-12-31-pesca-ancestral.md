@@ -1,8 +1,6 @@
 ---
 layout: post
 title:  "Pesca ancestral Guancavilca"
-listing-priority:
-date: 2020-01-01 00:00:00
 opens: 17 de enero / 18h00
 author: fernando
 categories: [ conferencias ]
@@ -11,14 +9,14 @@ tags: [featured]
 ---
 Los pescadores de la comunidad ancestral de Engabao, desarrollaron un curioso y único instrumento capaz de detectar el ronquido de los peces. Acompáñennos en un nuevo viaje para descubrir el tesoro que guarda la cultura guancavilca. En esta conferencia participaran dos comuneros de Engabao: **Clovis Tomalá** y **Juan Lindao**, quienes aún utilizan un tubo para escuchar el ronquido de los peces, y así detectar su localización. También contaremos con la presencia del M.Sc. **Javier Oña**, experto en bioacústica.
 
-- Conversatorio - debate  
-- Poesía temática del mar  
-- Exposición de arte  
+- Conversatorio - debate
+- Poesía temática del mar
+- Exposición de arte
 - Fanzines
 
 El evento se llevará a cabo el día viernes 17 de enero del 2020 a las 18h00 en el Auditorio del Museo Municipal de Guayaquil.
 
-**Continuamos el after en el Manso**  
+**Continuamos el after en el Manso**
 
 - Tarot Filosófico edusemiótico
 - Exposición de arte ancestral
