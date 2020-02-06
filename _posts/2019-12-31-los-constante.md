@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Los Constante, cuatro generaciones de artistas"
-listing-priority: 095
 opens: 9 de enero / 18h30
 author: fernando
 categories: [ exposiciones ]
