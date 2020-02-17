@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Imperfecta Belleza, Hernán Illescas"
-date: 2020-01-01 00:00:00
-opens: 3 de marzo / 18h30
+date: 2020-02-15 00:00:00
+opens: 5 de marzo / 18h30
 author: fernando
 categories: [ exposiciones ]
 image: //res.cloudinary.com/magnvs/image/upload/v1578323568/illescas_mkq0wf.jpg
