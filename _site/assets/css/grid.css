@@ -176,19 +176,19 @@ img.wide {
 
 
 .bg-eagle {
-  background-color: rgba(0,0,0,.3);
-  background-image: url(//res.cloudinary.com/magnvs/image/upload/v1577232384/thgvowq90zwre0zbxgqd.jpg);
-  background-size: cover;
-  background-position: center center;
+  background-image: url('//res.cloudinary.com/magnvs/image/upload/v1577232384/thgvowq90zwre0zbxgqd.jpg');
+  background-color: rgba(0,0,0,.4);
   background-blend-mode: multiply;
+  background-size: cover;
+  background-position: center;
 }
 
 .bg-mural {
-  background-color: rgba(0,0,0,.3);
-  background-image: url(//res.cloudinary.com/magnvs/image/upload/v1577232353/ehpgpv8r69b5rscdc25r.jpg);
-  background-size: cover;
-  background-position: center center;
+  background-image: url('//res.cloudinary.com/magnvs/image/upload/v1577232353/ehpgpv8r69b5rscdc25r.jpg');
+  background-color: rgba(0,0,0,.4);
   background-blend-mode: multiply;
+  background-size: cover;
+  background-position: center;
 }
 @media only screen and (min-width: 600px) {
   .full-width figcaption {
@@ -209,5 +209,11 @@ img.wide {
   .article-post {
     font-size: 1rem;
     line-height: 18pt;
+  }
+}
+
+@media only screen and (max-width: 360px) {
+  .hidden {
+    display:none;
   }
 }

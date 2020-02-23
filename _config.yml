@@ -62,12 +62,18 @@ paginate: 5
 collections:
   arts:
     output: true
+  items:
+    output: true
 
 defaults:
   - scope:
       type: arts
     values:
-      layout: ars
+      layout: post
+  - scope:
+      type: items
+    values:
+      layout: post
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
 exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
