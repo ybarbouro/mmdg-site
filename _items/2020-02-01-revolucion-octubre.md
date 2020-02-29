@@ -11,4 +11,4 @@ Considerado como uno de los más completos ensayos sobre la Independencia de Gua
 
 Como anécdota, cuenta Abel Romeo Castillo que la obra fue impresa con el seudónimo del autor ya que "Como venía estrecho el tiempo para la impresión del libro, casi en vísperas de la fecha centenaria de Guayaquil, la Junta envió apresuradamente el original del trabajo histórico que había ganado el concurso, olvidando identificar el seudónimo -D'Amencourt- con el verdadero nombre del autor...".
 
-Don Camilo Destruge, historiador, periodista y cronista guayaquileño fue Director de la Biblioteca Municipal y el primer director del Museo Municipal de Guayaquil (1908 - 1925). En 1925 el M. I. Concejo Cantonal de Guayquil acrdó nombrarlo Cronista Emérito de la Ciudad.
+Don Camilo Destruge, historiador, periodista y cronista guayaquileño fue Director de la Biblioteca Municipal y el primer director del Museo Municipal de Guayaquil (1908 - 1925). En 1925 el M. I. Concejo Cantonal de Guayaquil acordó nombrarlo Cronista Emérito de la Ciudad.
