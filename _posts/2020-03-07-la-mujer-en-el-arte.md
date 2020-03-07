@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "La mujer en la pintura y escultura ecuatoriana"
-date: 2020-03-08 00:00:00
+date: 2020-03-07 00:00:00
 opens: 17 de marzo
 author: fernando
 categories: [ exposiciones ]
