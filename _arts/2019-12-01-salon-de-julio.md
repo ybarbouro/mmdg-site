@@ -26,6 +26,6 @@ Al igual como sucede en el arte contemporáneo, en la historia del Salón de Jul
 
 El Salón de Julio también es testimonio del cambio generacional y sus preferencias en los procedimientos artísticos; así evidenciamos como el predominio del óleo y el lienzo han dado paso a la experimentación con nuevos procedimientos y materiales distintos a los tradicionales por excelencia.
 
-![Esther Madujano](//res.cloudinary.com/magnvs/image/upload/v1577601912/e6qiahcuohzblevjyx2r.png)
+![Esther Mandujano de Cubillo](//res.cloudinary.com/magnvs/image/upload/v1583605624/vk1va75xbzlvw96tn2im.jpg)
 
-<small>**Desde 1964 hasta 1991, el Salón de Julio incluía la modalidad Escultura**; en 1974 abrió con Caricatura y en 1994 con “Formas Alternativas de Creatividad”. **Esther Madujano:** Venus - María o el dolor. Escultura modelada en yeso. Primer Premio Salón de Escultura 1968.</small>
+<small>**Desde 1964 hasta 1991, el Salón de Julio incluía la modalidad Escultura**; en 1974 abrió con Caricatura y en 1994 con “Formas Alternativas de Creatividad”. **Esther Mandujano de Cubillo:** María o el dolor. Escultura modelada en yeso. Primer Premio III Salón de Escultura 1968.</small>
