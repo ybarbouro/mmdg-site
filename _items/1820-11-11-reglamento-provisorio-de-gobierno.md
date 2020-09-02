@@ -4,7 +4,7 @@ title:  "Reglamento provisorio de Gobierno"
 author: fernando
 image: https://res.cloudinary.com/magnvs/image/upload/v1582478651/w9gedtdjgr49tb19wyul.jpg
 ---
-La fuente del texto del contenido del Reglamento provisorio de Gobierno que se presenta a continuación provienen de la siguiente fuente: *Campos M, José Antonio. (1999).* **Historia documentada de la provincia del Guayas, Tomo IV.** *Guayaquil: Publicaciones de la Biblioteca de la Muy Ilustre Municipalidad de Guayaquil.*
+El texto del contenido del Reglamento provisorio de Gobierno que se presenta a continuación proviene de la siguiente fuente: *Campos M, José Antonio. (1999).* **Historia documentada de la provincia del Guayas, Tomo IV.** *Guayaquil: Publicaciones de la Biblioteca de la Muy Ilustre Municipalidad de Guayaquil.*
 
 ## Reglamento provisorio de Gobierno Aprobado por la Junta Electoral de Provincia.
 
