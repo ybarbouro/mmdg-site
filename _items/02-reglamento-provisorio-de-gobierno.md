@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Reglamento provisorio de Gobierno"
+date: 1820-11-11 00:00:00 GMT-5
 author: fernando
 image: https://res.cloudinary.com/magnvs/image/upload/v1582478651/w9gedtdjgr49tb19wyul.jpg
 ---

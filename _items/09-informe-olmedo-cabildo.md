@@ -2,7 +2,8 @@
 layout: post
 title:  "Informe gestiones de Olmedo, viaje en comisión a Cádiz"
 author: fernando
-image: https://res.cloudinary.com/magnvs/image/upload/v1582480865/dbueuewdcccgcmltnkac.jpg
+date: 2020-09-01 14:00:00 GMT-5
+image: //res.cloudinary.com/magnvs/image/upload/v1582480865/dbueuewdcccgcmltnkac.jpg
 ---
 En septiembre de 1810, el Cabildo guayaquileño nombró a Olmedo como su Diputado a las Cortes de Cádiz. En enero de 1811 emprende el viaje a España que, con algunas desventuras, le tomaría 8 meses para llegar a su destino. El 2 de octubre de 1811, Olmedo se incorpora al seno de la Asamblea.
 

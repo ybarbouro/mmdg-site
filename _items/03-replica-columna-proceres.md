@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Réplica a escala de la Columna de los Póceres de la Independencia"
+subtitle: "Josep Monserrat"
+date: 1917-12-08 07:00:00 GMT-5
 author: fernando
 image: https://res.cloudinary.com/magnvs/image/upload/v1583607025/oe9ze55phmfkijmwtkve.jpg
 ---
