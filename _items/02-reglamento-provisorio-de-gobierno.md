@@ -54,3 +54,4 @@ Art. 20°.- El Gobierno, después de disuelta la presente Junta Electoral, queda
 **José Joaquín de Olmedo.-** Presidente.
 
 **José Antepara.-** Elector Secretario.
+
